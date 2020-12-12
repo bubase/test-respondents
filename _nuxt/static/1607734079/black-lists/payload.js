@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/black-lists", {data:[{}],fetch:[],mutations:[]});

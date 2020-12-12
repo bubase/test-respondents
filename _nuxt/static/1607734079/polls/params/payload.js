@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/polls/params", {data:[{},{}],fetch:[],mutations:[]});
